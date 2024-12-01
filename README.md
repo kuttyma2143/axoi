@@ -12,7 +12,7 @@
  
 ## Netlify Deployed URL
 
-🔸*Check out My CRUD AXIOS TASK Here*👉🏻 
+🔸*Check out My CRUD AXIOS TASK Here*👉🏻 https://kuttyma2143.github.io/
 
 ## Features
 
@@ -23,17 +23,19 @@
 
 ## Getting Started
 
-1. **Clone the repository:**
+1. **Clone the repository:**  
 
    ```bash
    git clone 
+   
+   https://github.com/kuttyma2143/axoi
 
    ```
 
 2. **Install dependencies:**
 
    ```bash
-   cd Axios-Task
+   cd Axo
    npm install 
    npm install axios
 
